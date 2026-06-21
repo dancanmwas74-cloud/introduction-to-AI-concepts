@@ -21,6 +21,7 @@ AI is creating machine/system that can learn,make decision or automote like huma
  2. used in location-google maps
  3. used in biometrics
  4. used in data sorting
+ 5. 
 ### Advantages
  1. making work easier
 ### Disadvantages
