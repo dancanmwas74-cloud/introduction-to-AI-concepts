@@ -25,5 +25,6 @@ AI is creating machine/system that can learn,make decision or automote like huma
  1. making work easier
 ### Disadvantages
  1.it's expensive 
+ 
 
 
