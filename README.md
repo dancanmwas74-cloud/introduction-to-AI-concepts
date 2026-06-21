@@ -30,6 +30,7 @@ AI is creating machine/system that can learn,make decision or automote like huma
  1.it's expensive 
  2.Over-reliance on Technology
  3.Loss of Human Interaction
+ 4. 
 
 
 
