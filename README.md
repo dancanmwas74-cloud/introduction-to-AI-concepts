@@ -25,5 +25,18 @@ AI is creating machine/system that can learn,make decision or automote like huma
  1. making work easier
 ### Disadvantages
  1.it's expensive 
+### Myths of AI
+ 1. AI will replace jobs
+ 2. you can use AI without someone who does not know about it
+ 3. AI thinks and learns exactly as humans
+ 4. AI is always factually correct and objective
+ 5. AI operates perfectly without human oversight
+### Limitation of AI
+ 1. data dependency
+ 2. correlation and causation
+ 3. the black box problem
+ 
+ 
+ 
 
 
