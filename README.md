@@ -23,7 +23,13 @@ AI is creating machine/system that can learn,make decision or automote like huma
  4. used in data sorting
 ### Advantages
  1. making work easier
+ 2. Improved Decision Making
+ 3. 24/7 availability
+ 4. Enhanced Accuracy and Consistency
 ### Disadvantages
  1.it's expensive 
+ 2.Over-reliance on Technology
+ 3.Loss of Human Interaction
+
 
 
